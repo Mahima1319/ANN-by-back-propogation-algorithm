@@ -52,8 +52,8 @@ b.	For the hidden units.
 ```
 /*
 Program to implement ANN by back propagation algorithm.
-Developed by   : Vijayaragavan ARR
-RegisterNumber :  212220230059
+Developed by   : K MAHIMA
+RegisterNumber :  212219040070
 */
 ```
 ```python
